@@ -6,3 +6,5 @@ AWS.XamarinSDK/AWSSDK_iOS/bin
 AWS.XamarinSDK/AWSSDK_iOS/obj
 AWS.XamarinSDK/AWSSDK_iOS-Classic/bin
 AWS.XamarinSDK/nugetpackage/*.nupkg
+Resources/Resource.Designer.cs
+AWS.XamarinSDK.userprefs
