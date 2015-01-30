@@ -1,0 +1,8 @@
+AWS.XamarinSDK/AWSSDK_Android/bin
+AWS.XamarinSDK/AWSSDK_Android/obj
+AWS.XamarinSDK/AWSSDK_Core/bin
+AWS.XamarinSDK/AWSSDK_Core/obj
+AWS.XamarinSDK/AWSSDK_iOS/bin
+AWS.XamarinSDK/AWSSDK_iOS/obj
+AWS.XamarinSDK/AWSSDK_iOS-Classic/bin
+AWS.XamarinSDK/nugetpackage/*.nupkg
