@@ -32,10 +32,10 @@ namespace Amazon.S3.Util
     {
         internal const int PutObjectDefaultTimeout = 20 * 60 * 1000;
 
-        internal static readonly long MinPartSize = 5 * (long)Math.Pow(2, 20);
+			internal static readonly long MinPartSize = 100 * (long)Math.Pow(2, 20);
         internal const int MaxNumberOfParts = 10000;
 
-        internal const int DefaultBufferSize = 8192;
+			internal const int DefaultBufferSize = 1024 * 32;
 
         internal const string S3DefaultEndpoint = "s3.amazonaws.com";
         internal const string S3AlternateDefaultEndpoint = "s3-external-1.amazonaws.com";
